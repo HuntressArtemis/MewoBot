@@ -42,7 +42,7 @@ async def on_ready():
 		guild_count = guild_count + 1
 
 	# PRINTS HOW MANY GUILDS / SERVERS THE BOT IS IN.
-	print("SampleDiscordBot is in " + str(guild_count) + " guilds.")
+	print("MewoBot is in " + str(guild_count) + " guilds.")
 
 # EVENT LISTENER FOR WHEN A NEW MESSAGE IS SENT TO A CHANNEL.
 @bot.event

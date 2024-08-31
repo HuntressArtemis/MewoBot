@@ -175,7 +175,6 @@ songs = [
     "White Knuckle Jerk (live at Antifolk 2015) by Will Wood",
     "Sauce (’Cause I Put it There) (Studio Version) by Strange Thick",
     "Ryan I Wonder (Live) by Will Wood",
-    "Will Wood - Against the Kitchen Floor (پشتو تورجمانی) by Genius Pashto Translations",
     "Shining Star by Jamface",
     "Man, I Love Being Drunk (Live at Sidewalk 2015) by Will Wood",
     "Self-Ish (Live @ HEAD 2019) by Will Wood",
